@@ -1,0 +1,21 @@
+Step 1 :
+Your system should have python 3.8
+
+Step 2:
+(use command line) 
+pip install <library>
+
+where <library> = 
+numpy
+pandas
+tensorflow
+opencv-python
+speech_recognition
+pyaudio
+wave
+time
+threading
+os
+
+Step 3:
+Run the modules by double clicking on it(that is , the .py files)
